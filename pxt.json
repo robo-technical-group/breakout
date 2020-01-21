@@ -1,0 +1,20 @@
+{
+    "name": "Breakout",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-display-strings": "github:robo-technical-group/pxt-arcade-display-strings#v1.0.5",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ]
+}
